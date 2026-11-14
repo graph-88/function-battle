@@ -1127,8 +1127,7 @@ function drawGrid(){
     // ========================================================
 
     ctx.strokeStyle =
-        "white";
-
+"#000000";
     ctx.lineWidth =
         2;
 
@@ -1204,7 +1203,7 @@ function drawGrid(){
     // ========================================================
 
     ctx.fillStyle =
-        "white";
+       "#000000";
 
     ctx.font =
         "18px sans-serif";
@@ -1319,7 +1318,7 @@ function drawGrid(){
     // ========================================================
 
     ctx.fillStyle =
-        "white";
+        "#000000";
 
 
     ctx.fillText(
@@ -1381,7 +1380,7 @@ function drawArrow(
 
 
     ctx.fillStyle =
-        "white";
+        "#000000";
 
 
     ctx.beginPath();
